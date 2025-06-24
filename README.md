@@ -4,15 +4,6 @@ I'm a San Diego-based Computer Science grad with hands-on tech experience and a 
 
 📂 Explore my projects below or connect with me on [LinkedIn](https://www.linkedin.com/in/tammy-dahl-7111aa166/)!</h1>
 
-<h2>🎓 Education and Certifications:</h2>
-
-- Bachelor of Science in Applied Arts and Sciences – Computer Science, San Diego State University (2025)
-- Associate of Science in Computer Science, Grossmont College (2023)
-
-
-- Google Data Analytics Professional Certificate
-- IBM Data Analyst Professional Certificate
-
 <h2>👨‍💻 Notable Projects:</h2>
 
 - <b> 🧠 Tweet Classifier for Disaster Response </b>
@@ -36,4 +27,11 @@ I'm a San Diego-based Computer Science grad with hands-on tech experience and a 
 
 <h2> 🤳 Connect with me:</h2>
 LinkedIn: https://www.linkedin.com/in/tammy-dahl-7111aa166/
+
+<h2>🎓 Education and Certifications:</h2>
+
+- Bachelor of Science in Applied Arts and Sciences – Computer Science, San Diego State University (2025)
+- Associate of Science in Computer Science, Grossmont College (2023)
+- Google Data Analytics Professional Certificate
+- IBM Data Analyst Professional Certificate
 
