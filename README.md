@@ -32,6 +32,8 @@ LinkedIn: https://www.linkedin.com/in/tammy-dahl-7111aa166/
 
 - Bachelor of Science in Applied Arts and Sciences – Computer Science, San Diego State University (2025)
 - Associate of Science in Computer Science, Grossmont College (2023)
+<!-- 
 - Google Data Analytics Professional Certificate
 - IBM Data Analyst Professional Certificate
+-->
 
