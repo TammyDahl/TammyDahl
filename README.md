@@ -6,19 +6,19 @@ I'm a San Diego-based Computer Science grad with hands-on tech experience and a 
 
 <h2>👨‍💻 Notable Projects:</h2>
 
-- <b> 🧠 Tweet Classifier for Disaster Response </b>
+- <b> 🧠 [Tweet Classifier for Disaster Response](https://github.com/TammyDahl/DisasterResponseTweetClassifier) </b>
   - Built an NLP model to classify tweets during natural disasters using logistic regression and SVM.
 
-- <b> 🧬 Alzheimer's vs Alcoholism: Data Analysis </b>
+- <b> 🧬 [Alzheimer's vs Alcoholism: Data Analysis](https://github.com/TammyDahl/AlzheimersVAlcoholismDataAnalysis) </b>
   - Explored behavioral and biological overlaps between neurodegenerative disease and substance abuse using statistical techniques.
 
-- <b> 🔒 Laser Tripwire System </b>
+- <b> 🔒 [Laser Tripwire System](https://github.com/TammyDahl/LaserTripwireSystem) </b>
   - Raspberry Pi + IFTTT security project to detect and report room breaches in real time.
 
-- <b> 🛍️ Retail Store Kiosk Simulation </b>
+- <b> 🛍️ [Retail Store Kiosk Simulation](https://github.com/TammyDahl/RetailStoreKioskSim) </b>
   - Modeled a store kiosk’s inventory and checkout flow using object-oriented design.
 
-- <b> 🍳 Recipe Recommendation App </b>
+- <b> 🍳 [Recipe Recommendation App](https://github.com/TammyDahl/RecipeRecommendationApp) </b>
   - AI-based tool that suggests recipes based on user ingredients using KNN-style matching and cosine similarity.
 
 <h2>📺 YouTube Videos</h2>
