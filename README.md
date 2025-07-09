@@ -9,6 +9,9 @@ I'm a San Diego-based Computer Science grad with hands-on tech experience and a 
 <b> 🧠 [Tweet Classifier for Disaster Response](https://github.com/TammyDahl/DisasterResponseTweetClassifier) </b>
   - Built a multi-label NLP model to classify disaster-related tweets using text preprocessing, TF-IDF, logistic regression, and random forest. Designed for real-time emergency filtering with scikit-learn and Flask. Showcases experience in natural language processing and model deployment.
 
+<b> 🍳 [Recipe Recommendation App](https://github.com/TammyDahl/RecipeRecommendationApp) </b>
+  - Worked on a team to build an AI-powered recommendation system using Word2Vec, K-Means clustering, and cosine similarity to match user input with relevant recipes. Emphasizes experience with unsupervised learning, recommender logic, and translating user preferences into structured data.
+
 <b> 🧬 [Alzheimer's vs Alcoholism: Data Analysis](https://github.com/TammyDahl/AlzheimersVAlcoholismDataAnalysis) </b>
   - Performed exploratory data analysis, statistical testing, and built a random forest classifier to examine how alcohol consumption correlates with dementia progression. Used pandas, seaborn, and scikit-learn to analyze real-world health datasets and communicate results with visual storytelling.
 
@@ -18,14 +21,12 @@ I'm a San Diego-based Computer Science grad with hands-on tech experience and a 
 <b> 🛍️ [Retail Store Kiosk Simulation](https://github.com/TammyDahl/RetailStoreKioskSim) </b>
   - Collaborated on the design and simulation of a clothing store POS system. Contributed to UML diagrams, ERD, data dictionary, and Java-based simulation of inventory, transactions, and user roles. Highlights object modeling, database logic, and structured system design.
 
-<b> 🍳 [Recipe Recommendation App](https://github.com/TammyDahl/RecipeRecommendationApp) </b>
-  - Worked on a team to build an AI-powered recommendation system using Word2Vec, K-Means clustering, and cosine similarity to match user input with relevant recipes. Emphasizes experience with unsupervised learning, recommender logic, and translating user preferences into structured data.
-
 <h2>📺 YouTube Videos</h2>
 
-- [Laser Tripwire Demonstration](https://youtu.be/IfYAgOm_tNY)
+[Laser Tripwire Demonstration](https://youtu.be/IfYAgOm_tNY)
 
 <h2> 🤳 Connect with me:</h2>
+
 LinkedIn: https://www.linkedin.com/in/tammy-dahl-7111aa166/
 
 <h2>🎓 Education and Certifications:</h2>
