@@ -2,7 +2,7 @@
 
 I'm a San Diego-based Computer Science grad with hands-on tech experience and a passion for turning data into insight. I recently wrapped up my degree at SDSU and bring several years of industry experience, including a product-facing role at Microsoft. I'm currently looking for full-time opportunities in data science or data analytics, with a focus on meaningful, remote work that offers room to grow.
 
-📂 Explore my projects below or connect with me on [LinkedIn](https://www.linkedin.com/in/tammy-dahl-7111aa166/)!</h1>
+Explore my projects below or connect with me on [LinkedIn](https://www.linkedin.com/in/tammy-dahl-7111aa166/)!</h1>
 
 <h2>👨‍💻 Notable Projects:</h2>
 
